@@ -1,13 +1,3 @@
----
-title: Telerik Friends Sample App for NativeScript
-slug: sample-backend-services-friends-nativescript
-position: 1
-publish: true
-page_title: Telerik Friends Sample App for NativeScript | Telerik Platform
-description: 
-tags: NativeScript, Native app, Sample App, Application, iOS, Android, JavaScript, BaaS, mBaaS, Social, Analytics, Social Login, AD FS
----
-
 
 # Telerik Friends Sample App for NativeScript
 
